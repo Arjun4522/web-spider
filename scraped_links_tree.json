@@ -1,0 +1,271 @@
+{
+    "https://youtube.com/": {
+        "https://www.youtube.com/about/": {
+            "https://www.youtube.com/about/": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/about/#content",
+                "https://www.youtube.com/howyoutubeworks/",
+                "https://www.youtube.com/creators/",
+                "https://www.youtube.com/trends/"
+            ]
+        },
+        "https://www.youtube.com/about/press/": {
+            "https://www.youtube.com/about/press/": [
+                "https://www.youtube.com/about/press/#jump-content",
+                "https://www.youtube.com/news-and-events",
+                "https://www.youtube.com/creator-and-artist-stories",
+                "https://www.youtube.com/culture-and-trends",
+                "https://www.youtube.com/inside-youtube"
+            ]
+        },
+        "https://www.youtube.com/about/copyright/": {
+            "https://www.youtube.com/about/copyright/": [
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/",
+                "https://www.youtube.com/about/copyright/#content",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/managing-harmful-content/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/standing-up-to-hate/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/fighting-misinformation/"
+            ]
+        },
+        "https://youtube.com/t/contact_us/": {
+            "https://youtube.com/t/contact_us/": [
+                "https://youtube.com/yt/about",
+                "https://youtube.com/t/community_guidelines",
+                "https://youtube.com/yt/jobs",
+                "https://support.google.com/youtube/",
+                "https://support.google.com/forum/p/youtube"
+            ]
+        },
+        "https://www.youtube.com/ads/": {
+            "https://www.youtube.com/ads/": [
+                "https://www.youtube.com/intl/ALL_in/ads/",
+                "https://www.youtube.com/ads/#content",
+                "https://www.youtube.com/intl/ALL_in/ads/how-it-works/",
+                "https://www.youtube.com/intl/ALL_in/ads/youtube-for-small-business/",
+                "https://www.youtube.com/intl/ALL_in/ads/how-it-works/create-a-video-ad/"
+            ]
+        },
+        "https://youtube.com/": [
+            "https://www.youtube.com/about/",
+            "https://www.youtube.com/about/press/",
+            "https://www.youtube.com/about/copyright/",
+            "https://youtube.com/t/contact_us/",
+            "https://www.youtube.com/ads/"
+        ]
+    },
+    "https://developers.google.com/youtube": {
+        "https://developers.google.com/youtube/documentation": {
+            "https://developers.google.com/youtube/documentation": [
+                "https://developers.google.com/youtube/code_samples",
+                "https://developers.google.com/youtube/terms/api-services-terms-of-service",
+                "https://developers.google.com/youtube/iframe_api_reference",
+                "https://developers.google.com/youtube/android/player",
+                "https://developers.google.com/youtube/v3/guides/ios_youtube_helper"
+            ]
+        },
+        "https://developers.google.com/": {
+            "https://developers.google.com/": [
+                "https://developers.google.com/products",
+                "https://developer.android.com",
+                "https://chromeos.dev/",
+                "https://cloud.google.com",
+                "https://firebase.google.com"
+            ]
+        },
+        "https://developers.google.com/youtube/player_parameters": {
+            "https://developers.google.com/youtube/player_parameters": [
+                "https://developers.google.com/youtube/youtube_player_demo",
+                "https://developers.google.com/youtube/players/support",
+                "https://developers.google.com/youtube/players/android_player_api",
+                "https://developers.google.com/youtube/player_parameters#autoplay",
+                "https://developers.google.com/youtube/player_parameters#loop"
+            ]
+        },
+        "https://developers.google.com/youtube/v3/getting-started": {
+            "https://developers.google.com/youtube/v3/getting-started": [
+                "https://developers.google.com/youtube/v3",
+                "https://developers.google.com/youtube/v3/docs",
+                "https://developers.google.com/youtube/v3/code_samples",
+                "https://developers.google.com/youtube/v3/support",
+                "https://developers.google.com/youtube/v3/libraries"
+            ]
+        },
+        "https://developers.google.com/youtube/reporting": {
+            "https://developers.google.com/youtube/reporting": [
+                "https://developers.google.com/youtube/analytics",
+                "https://developers.google.com/youtube/reporting/guides/authorization",
+                "https://developers.google.com/youtube/reporting/v1/reports",
+                "https://developers.google.com/youtube/analytics/data_model",
+                "https://developers.google.com/youtube/reporting/v1/code_samples"
+            ]
+        },
+        "https://developers.google.com/youtube": [
+            "https://developers.google.com/youtube/documentation",
+            "https://developers.google.com/",
+            "https://developers.google.com/youtube/player_parameters",
+            "https://developers.google.com/youtube/v3/getting-started",
+            "https://developers.google.com/youtube/reporting"
+        ]
+    },
+    "https://youtube.com/t/terms": {
+        "https://youtube.com/t/terms_paidservice": {
+            "https://youtube.com/t/terms_paidservice": [
+                "https://youtube.com/t/usage_paycontent",
+                "https://youtube.com/t/policy_cns",
+                "https://youtube.com/t/copyright_notice",
+                "https://www.youtube.com/t/terms_paidservice?archive=20220518-en",
+                "https://www.youtube.com/t/terms"
+            ]
+        },
+        "https://youtube.com/t/terms#20c5cf0fa6": {
+            "https://youtube.com/t/terms#20c5cf0fa6": [
+                "https://youtube.com/t/terms#eb887a967c",
+                "https://youtube.com/t/terms#c3e2907ca8",
+                "https://youtube.com/t/terms#27dc3bf5d9",
+                "https://youtube.com/t/terms#8d13a409a3",
+                "https://youtube.com/t/terms#8c38269fae"
+            ]
+        },
+        "https://youtube.com/t/terms#56eee99974": {
+            "https://youtube.com/t/terms#56eee99974": [
+                "https://youtube.com/t/terms#42d1acaf7a",
+                "https://support.google.com/youtubekids/",
+                "https://support.google.com/youtube/topic/9223152",
+                "https://support.google.com/youtube/topic/9223117",
+                "https://support.google.com/youtube/topic/9257096?ref_topic=9257500"
+            ]
+        },
+        "https://support.google.com/googlehome/answer/7029380": {
+            "https://support.google.com/googlehome/answer/7029380": [
+                "https://support.google.com/googlehome/answer/7029380#hcfe-content",
+                "https://support.google.com/?tab=uu",
+                "https://support.google.com/googlenest",
+                "https://www.google.co.in/intl/en/about/products?tab=uh",
+                "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/googlenest/answer/7029380&ec=GAZAdQ"
+            ]
+        },
+        "https://www.youtube.com/t/community_guidelines": {
+            "https://www.youtube.com/t/community_guidelines": [
+                "https://www.youtube.com/t/community_guidelines#content",
+                "https://www.youtube.com/howyoutubeworks/our-commitments/managing-harmful-content/",
+                "https://www.youtube.com/howyoutubeworks/our-commitments/standing-up-to-hate/",
+                "https://www.youtube.com/howyoutubeworks/our-commitments/fighting-misinformation/",
+                "https://www.youtube.com/howyoutubeworks/our-commitments/curbing-extremist-content/"
+            ]
+        },
+        "https://youtube.com/t/terms": [
+            "https://youtube.com/t/terms_paidservice",
+            "https://youtube.com/t/terms#20c5cf0fa6",
+            "https://youtube.com/t/terms#56eee99974",
+            "https://support.google.com/googlehome/answer/7029380",
+            "https://www.youtube.com/t/community_guidelines"
+        ]
+    },
+    "https://youtube.com/t/privacy": {
+        "https://www.google.co.in/intl/en-GB/about/products": {
+            "https://www.google.co.in/intl/en-GB/about/products": [
+                "https://www.google.co.in/intl/en-GB/about/products#page-content",
+                "https://www.google.co.in/intl/en-GB/",
+                "https://www.google.co.in/intl/en-GB/google-in-uk/",
+                "https://www.google.co.in/intl/en-GB/products/",
+                "https://www.google.co.in/intl/en-GB/commitments/"
+            ]
+        },
+        "https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://policies.google.com/privacy?hl%3Den-GB&followup=https://policies.google.com/privacy?hl%3Den-GB&hl=en-GB&ec=GAZAoQQ": {
+            "https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://policies.google.com/privacy?hl%3Den-GB&followup=https://policies.google.com/privacy?hl%3Den-GB&hl=en-GB&ec=GAZAoQQ": [
+                "https://accounts.google.com/signin/usernamerecovery?continue=https://policies.google.com/privacy?hl%3Den-GB&dsh=S-1559600024:1697240782178185&ec=GAZAoQQ&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://policies.google.com/privacy?hl%3Den-GB&hl=en-GB&ifkv=AYZoVhfS60x7VaO08Z9AJj0EIwbdhts_BG8mOyZZrTfx3u6rxo_tZw3wbFytRNyovxsDlVD--ZMv",
+                "https://support.google.com/accounts?p=signin_privatebrowsing&hl=en-GB",
+                "https://accounts.google.com/SignUp?cc=IN&continue=https://policies.google.com/privacy?hl%3Den-GB&dsh=S-1559600024:1697240782178185&ec=GAZAoQQ&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://policies.google.com/privacy?hl%3Den-GB&hl=en-GB&ifkv=AYZoVhfS60x7VaO08Z9AJj0EIwbdhts_BG8mOyZZrTfx3u6rxo_tZw3wbFytRNyovxsDlVD--ZMv",
+                "https://support.google.com/accounts?hl=en-GB&p=account_iph",
+                "https://accounts.google.com/TOS?loc=IN&hl=en-GB&privacy=true"
+            ]
+        },
+        "https://youtube.com/t/privacy?hl=en-GB": {
+            "https://youtube.com/t/privacy?hl=en-GB": [
+                "https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://policies.google.com/privacy?hl%3Den-GB%26hl%3Den-GB&followup=https://policies.google.com/privacy?hl%3Den-GB%26hl%3Den-GB&hl=en-GB&ec=GAZAoQQ",
+                "https://youtube.com/t/privacy?hl=en-GB&hl=en-GB",
+                "https://youtube.com/t/terms?hl=en-GB&hl=en-GB",
+                "https://youtube.com/t/technologies?hl=en-GB&hl=en-GB",
+                "https://youtube.com/t/faq?hl=en-GB&hl=en-GB"
+            ]
+        },
+        "https://youtube.com/t/terms?hl=en-GB": {
+            "https://youtube.com/t/terms?hl=en-GB": [
+                "https://www.youtube.com/t/policies",
+                "https://support.google.com/youtube/topic/30084?ref_topic=2972865",
+                "https://support.google.com/youtube/answer/2802272",
+                "https://families.google.com/familylink/",
+                "https://support.google.com/youtube/answer/2802027"
+            ]
+        },
+        "https://youtube.com/t/technologies?hl=en-GB": null,
+        "https://youtube.com/t/privacy": [
+            "https://www.google.co.in/intl/en-GB/about/products",
+            "https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://policies.google.com/privacy?hl%3Den-GB&followup=https://policies.google.com/privacy?hl%3Den-GB&hl=en-GB&ec=GAZAoQQ",
+            "https://youtube.com/t/privacy?hl=en-GB",
+            "https://youtube.com/t/terms?hl=en-GB",
+            "https://youtube.com/t/technologies?hl=en-GB"
+        ]
+    },
+    "https://www.youtube.com/about/policies/": {
+        "https://www.youtube.com/about/policies/#content": {
+            "https://www.youtube.com/about/policies/#content": [
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/curbing-extremist-content/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/supporting-political-integrity/",
+                "https://research.youtube",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/preventing-bias/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/fostering-child-safety/"
+            ]
+        },
+        "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/protecting-user-data/": {
+            "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/protecting-user-data/": [
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/protecting-user-data/#content",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/safeguarding-copyright/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/sharing-revenue/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/promoting-digital-wellbeing/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/covid-response/"
+            ]
+        },
+        "https://www.youtube.com/intl/ALL_in/howyoutubeworks/product-features/search/": {
+            "https://www.youtube.com/intl/ALL_in/howyoutubeworks/product-features/search/": [
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/product-features/search/#content",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/product-features/recommendations/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/product-features/news-information/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/product-features/health-information/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/product-features/monetization/"
+            ]
+        },
+        "https://www.youtube.com/intl/ALL_in/howyoutubeworks/product-features/live/": {
+            "https://www.youtube.com/intl/ALL_in/howyoutubeworks/product-features/live/": [
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/product-features/live/#content",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/user-settings/privacy/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/user-settings/ad-settings/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/user-settings/parental-controls/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/user-settings/autoplay/"
+            ]
+        },
+        "https://www.youtube.com/intl/ALL_in/howyoutubeworks/policies/overview/": {
+            "https://www.youtube.com/intl/ALL_in/howyoutubeworks/policies/overview/": [
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/policies/overview/#content",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/policies/community-guidelines/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/policies/copyright/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/policies/monetization-policies/",
+                "https://www.youtube.com/intl/ALL_in/howyoutubeworks/policies/legal-removals/"
+            ]
+        },
+        "https://www.youtube.com/about/policies/": [
+            "https://www.youtube.com/about/policies/#content",
+            "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-commitments/protecting-user-data/",
+            "https://www.youtube.com/intl/ALL_in/howyoutubeworks/product-features/search/",
+            "https://www.youtube.com/intl/ALL_in/howyoutubeworks/product-features/live/",
+            "https://www.youtube.com/intl/ALL_in/howyoutubeworks/policies/overview/"
+        ]
+    },
+    "https://youtube.com": [
+        "https://youtube.com/",
+        "https://developers.google.com/youtube",
+        "https://youtube.com/t/terms",
+        "https://youtube.com/t/privacy",
+        "https://www.youtube.com/about/policies/"
+    ]
+}
